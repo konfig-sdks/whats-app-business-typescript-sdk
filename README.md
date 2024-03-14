@@ -75,7 +75,7 @@ See https://developers.facebook.com/docs/whatsapp
 
 ## Installation<a id="installation"></a>
 <div align="center">
-  <a href="https://konfigthis.com/sdk-sign-up?company=WhatsApp&serviceName=Business&language=TypeScript">
+  <a href="https://konfigthis.com/sdk-sign-up?company=WhatsApp&%20serviceName=Business%20&language=TypeScript">
     <img src="https://raw.githubusercontent.com/konfig-dev/brand-assets/HEAD/cta-images/typescript-cta.png" width="70%">
   </a>
 </div>
